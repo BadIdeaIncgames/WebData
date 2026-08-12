@@ -1,2 +1,2 @@
-# WebData
-Just check the website
+# Blog
+The website blog posts
