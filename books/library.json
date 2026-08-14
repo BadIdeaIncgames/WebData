@@ -3,7 +3,7 @@
     "title": "Beastiary II: Of Gods and Men",
     "author": "L. Valley",
     "date": "20XX",
-    "redacted": true
+    "redacted": true,
     "chapters": {
       "Gods": {
         "prefix": "god"
@@ -17,7 +17,7 @@
     "chapters": {
       "Demons": {
         "prefix": "demon"
-      }
+      },
       "Humans": {
         "prefix": "human"
       }
