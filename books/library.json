@@ -1,15 +1,4 @@
 {
-  "beastiary-II": {
-    "title": "Beastiary II: Of Gods and Men",
-    "author": "L. Valley",
-    "date": "20XX",
-    "redacted": true,
-    "chapters": {
-      "Gods": {
-        "prefix": "god"
-      }
-    }
-  },
   "beastiary-I": {
     "title": "Beastiary I: Of Monsters and Men",
     "author": "D. Mira",
@@ -20,6 +9,17 @@
       },
       "Humans": {
         "prefix": "human"
+      }
+    }
+  },
+  "beastiary-II": {
+    "title": "Beastiary II: Of Gods and Men",
+    "author": "L. Valley",
+    "date": "20XX",
+    "redacted": true,
+    "chapters": {
+      "Gods": {
+        "prefix": "god"
       }
     }
   }
