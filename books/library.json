@@ -4,12 +4,8 @@
     "author": "D. Mira",
     "date": "17XX",
     "chapters": {
-      "Demons": {
-        "prefix": "demon"
-      },
-      "Humans": {
-        "prefix": "human"
-      }
+      "demon": ["kraos"],
+      "human": []
     }
   },
   "beastiary-II": {
@@ -18,9 +14,7 @@
     "date": "20XX",
     "redacted": true,
     "chapters": {
-      "Gods": {
-        "prefix": "god"
-      }
+      "god": ["aranea", "dreamer"]
     }
   }
 }
