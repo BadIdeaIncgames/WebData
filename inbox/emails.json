@@ -1,7 +1,10 @@
 {
   "ofd_order_placed": {
     "sender": "Pandora Deliveries",
-    "subject": "Order [PD-162661368] Dispatched",
-    "date": "2026-09-21"
+    "subject": "Order 'Kraopticon' Placed",
+    "date": "2026-09-21",
+    "content": {
+      "innerHTML": "<p>Thanks for your order!</p><p>-0-0-0-</p><p>Order PD-1589125</p><button>View Order</button><p>Kraopticon</p><p>123.45$</p>"
+    }
   }
 }
