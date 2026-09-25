@@ -4,7 +4,7 @@
     "subject": "Order 'Kraopticon' Placed",
     "date": "2026-09-21",
     "content": {
-      "innerHTML": "<Note children={<div style='display: flex; flex-direction: column; align-items: center; width: 100%;'><p>Thanks for your order!</p><p>-0-0-0-</p><p>Order PD-1589125</p><button style='width: 5rem'>View Order</button><p>Kraopticon</p><p>123.45$</p></div>} />"
+      "innerHTML": "<div style='display: flex; flex-direction: column; align-items: center; width: 100%;'><p>Thanks for your order!</p><p>-0-0-0-</p><p>Order PD-1589125</p><button style='width: 5rem'>View Order</button><p>Kraopticon</p><p>123.45$</p></div>"
     }
   }
 }
